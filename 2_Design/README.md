@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/81865735/168140557-214b23ea-4325-4f24-b402-662521869e0c.png)
 
-## Wiper control system working on STM32 board
+## Wiper control system working on STM32F407 Discovery board
 
 ### Push button will act as ON/OFF button for the system 
 ### LED6 will act as ACC 
