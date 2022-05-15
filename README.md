@@ -6,6 +6,10 @@
 * Codiga - Static code analysis
 ![Quality](https://api.codiga.io/project/33572/score/svg)
 
+* Build - 
+    [![Build-Linux](https://github.com/Amangarg99/M3_Wiper-control-system/actions/workflows/Linux.yml/badge.svg)](https://github.com/Amangarg99/M3_Wiper-control-system/actions/workflows/Linux.yml)
+   
+* CppCheck - [![Cppcheck](https://github.com/Amangarg99/M3_Wiper-control-system/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/Amangarg99/M3_Wiper-control-system/actions/workflows/Cppcheck.yml)
 
 
 
